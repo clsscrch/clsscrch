@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😁 I'm Richard
+- 🌱 I’m currently learning web development
+- ⚡ Fun fact: I love capybaras 
+
