@@ -9,6 +9,7 @@
 - 💻 NextJS, React, TailwindCSS
 - 🖥 Express.js, Django, Flask
 - 🛢 PostgreSQL, MySQL, SQLite
+- ⚙️ Docker, AWS, Linux (Debian-based, Arch)
 
 <br/>
 
